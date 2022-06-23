@@ -8,7 +8,7 @@
     body {
         font-family: 'Heebo', sans-serif;
         font-family: 'Poppins', sans-serif;
-        width: 80%;
+        width: 75%;
         margin: 0 auto;
     }
     
@@ -240,10 +240,12 @@
     .container__flex {
         display: flex;
         width: 100%;
+        justify-content: center;
     }
     
     .card {
         padding: 0 .5em;
+        width: 35%;
     }
     
     .container__flex img {
@@ -276,6 +278,11 @@
         position: relative;
         float: right;
         margin-right: 2em;
+    }
+    
+    .arrow-blue,
+    .arrow {
+        margin-top: 2em;
     }
     
     .arrow:hover,
@@ -370,5 +377,14 @@
         .second__content__card {
             width: 100%;
             margin-left: 1em;
+        }
+        .container__flex {
+            flex-direction: column;
+        }
+        .container__flex {
+            width: 100%;
+        }
+        .card {
+            width: 100%;
         }
     }
