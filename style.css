@@ -8,7 +8,7 @@
         body {
             font-family: 'Heebo', sans-serif;
             font-family: 'Poppins', sans-serif;
-            width: 465px;
+            max-width: 465px;
             margin: 0 auto;
         }
         
@@ -320,6 +320,11 @@
         .profile {
             display: flex;
             margin-top: 2em;
+            margin-bottom: 2em;
+        }
+        
+        label {
+            padding-left: 2em;
         }
         
         .profile img {
@@ -344,7 +349,7 @@
         
         .footer--list {
             color: white;
-            margin: 2em 3em 0;
+            padding: 2em 3em 0;
             padding-top: 1em;
             font-size: 1rem;
             font-weight: 400;
@@ -352,7 +357,7 @@
         }
         
         .footer--contact {
-            margin: 3em 0 2em 3em;
+            padding: 3em 0 2em 3em;
         }
         
         .white--logo {
