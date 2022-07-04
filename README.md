@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://62c305ad10ca5a00b4566381--willowy-sunshine-0777c1.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://62c305ad10ca5a00b4566381--willowy-sunshine-0777c1.netlify.app/">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/xobQBuf8zWWmiYMIAZe0">
+    <a href="https://62c305ad10ca5a00b4566381--willowy-sunshine-0777c1.netlify.app/">
       Challenge
     </a>
   </h3>
@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](![Uploading 62c305ad10ca5a00b4566381--willowy-sunshine-0777c1.netlify.app_.png…]())
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -87,6 +87,6 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Linkedin [Raghad Almughidi](https://www.linkedin.com/in/raghad-almughidi/)
+- GitHub [@rdmug1421](https://github.com/rdmug1421)
+- Twitter [@rd_mug](https://twitter.com/Rd_mug)
